@@ -1,2 +1,3 @@
-# giant-admin
+# GiantSQL Administrator
 GiantSQL Administrator
+
