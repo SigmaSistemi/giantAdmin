@@ -1,6 +1,6 @@
 # giantAdmin
 
-Pagina web per l'installazione di GiantSQL Administrator
+Pagina web per l'installazione di GiantAdmin
 
 https://sigmasistemi.github.io/giantAdmin
 
